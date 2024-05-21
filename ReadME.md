@@ -1,4 +1,16 @@
-# devJobScanner Job Scraper
+<div align="center">
+  <img width="100px" src="./assets/logo.svg" alt="devjobsscanner logo" />
+  <h1>devJobScanner Job Scraper</h1>
+</div>
+
+<p align="center">
+  <a href="https://github.com/asibhossen897/devJobsScanner-job-scraper/network">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=asibhossen897&repo=devJobsScanner-job-scraper&theme=tokyonight" alt="Readme Card">
+  </a>
+</p>
+
+
+
 
 ## Description
 This repository contains two scripts designed to scrape job listings from a specified website. Users can input their desired job title, remote work preference, sorting preference, and choose how to save the output (CSV, TXT, or both).
