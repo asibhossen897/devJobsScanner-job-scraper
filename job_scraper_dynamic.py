@@ -63,7 +63,7 @@ def scrape_jobs(url, num_jobs):
     """
     jobs = []
     try:
-        driver = Driver(browser="Firefox", headless=False)
+        driver = Driver(browser="Firefox", headless=False) # Change the browser to your preference.
         driver.get(url)
         time.sleep(5)  # Initial wait for page load
 
@@ -121,7 +121,7 @@ def display_jobs(jobs):
         print(f"Date Posted: {job['date_posted']}")
         print(f"Salary: {job['salary']}")
         print(f"Job URL: {job['job_url']}")
-        print("-" * 40)
+        print("__+__" * 40)
 
 def save_as_csv(jobs, filename):
     """

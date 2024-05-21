@@ -20,13 +20,13 @@ This repository contains two scripts designed to scrape job listings from a spec
 ## Requirements
 
 ### Common Requirements
-- Python 3.x
+- Python 3.8+
 - `beautifulsoup4` library
 - `requests` library
 
 ### Dynamic Script Additional Requirements
 - `seleniumbase` library
-- WebDriver for your browser (e.g., ChromeDriver for Chrome)
+- WebDriver for your browser (e.g., ChromeDriver for Chrome, GeckoDriver for Firefox)
 
 ## Installation
 1. Clone the repository:
