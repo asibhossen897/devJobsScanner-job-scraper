@@ -13,7 +13,7 @@
 
 
 ## Description
-This repository contains two scripts designed to scrape job listings from a specified website. Users can input their desired job title, remote work preference, sorting preference, and choose how to save the output (CSV, TXT, or both).
+<p> This repository contains two scripts designed to scrape job listings from <span style="color: orange;">devjobsscanner</span> website. Users can input their desired job title, remote work preference, sorting preference, and choose how to save the output (CSV, TXT, or both).</p>
 
 ## Scripts
 
